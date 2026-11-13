@@ -12,7 +12,7 @@
   <a href="mailto:naveenkumarasamy069@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Naveen007-8/Portfolio">
+  <a href="https://github.com/Naveen007-8">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
